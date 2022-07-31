@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/LOGIN-REACT-API/static/css/main.fb227388.css",
-    "main.js": "/LOGIN-REACT-API/static/js/main.80b089bb.js",
+    "main.js": "/LOGIN-REACT-API/static/js/main.5afc4b55.js",
     "static/js/787.a945b3f4.chunk.js": "/LOGIN-REACT-API/static/js/787.a945b3f4.chunk.js",
     "static/media/logo.png": "/LOGIN-REACT-API/static/media/logo.eee9c8ff5f023e1b9542.png",
     "index.html": "/LOGIN-REACT-API/index.html",
     "main.fb227388.css.map": "/LOGIN-REACT-API/static/css/main.fb227388.css.map",
-    "main.80b089bb.js.map": "/LOGIN-REACT-API/static/js/main.80b089bb.js.map",
+    "main.5afc4b55.js.map": "/LOGIN-REACT-API/static/js/main.5afc4b55.js.map",
     "787.a945b3f4.chunk.js.map": "/LOGIN-REACT-API/static/js/787.a945b3f4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fb227388.css",
-    "static/js/main.80b089bb.js"
+    "static/js/main.5afc4b55.js"
   ]
 }
