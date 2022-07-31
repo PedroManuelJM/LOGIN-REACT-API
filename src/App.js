@@ -16,14 +16,10 @@ function App() {
           <Route path="/" element={ <Home/> }/>
           <Route path="/perfil" element={ <Perfil/>}/>
           <Route path="/login"  element={<Login/>}/>
-    
+          <Route path="*"  element={<Error/>}/>
         </Routes>
     </div>
       
-       
-
- 
-   
   );
 }
 
