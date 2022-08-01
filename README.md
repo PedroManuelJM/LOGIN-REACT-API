@@ -90,3 +90,6 @@ https://pedromanueljm.github.io/LOGIN-REACT-API/#/login
    - "homepage": "https://{Github Username}.github.io/{NombreRepo}"
    - "predeploy": "npm run build"
    - "deploy": "gh-pages -d build"
+
+
+npm run deploy // actualizar cambios de despliegue
