@@ -93,3 +93,10 @@ https://pedromanueljm.github.io/LOGIN-REACT-API/#/login
 
 
 npm run deploy // actualizar cambios de despliegue
+
+// actualizar 
+
+git init 
+git add .
+git commit -m "first commit"
+git push -u origin main
