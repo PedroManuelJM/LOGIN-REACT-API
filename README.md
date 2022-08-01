@@ -9,7 +9,7 @@
 #### npm i --save @fortawesome/fontawesome-svg-core
 #### npm install --save @fortawesome/free-solid-svg-icons
 #### npm install --save @fortawesome/react-fontawesome
-
+#### GITHUB PAGES gh-pages: npm install gh-pages --save-dev
 
 #### CAPTURAS
 
@@ -17,6 +17,7 @@
 ##### USUARIO: demo 
 ##### CLAVE:demo 
 #### LOGIN 
+
 ![image](https://user-images.githubusercontent.com/71619972/182044287-d26d9d3d-7e13-4328-bc0a-48ddb183fda2.png)
 
 #### HOME
@@ -79,3 +80,13 @@ PARA LAS RUTAS DINÁMICAS CON REACT ROUTER DOM REEMPLAZAR BrowserRouter POR Hash
 
 ## LINK 
 https://pedromanueljm.github.io/LOGIN-REACT-API/#/login 
+
+## PACKAGE.JSON 
+
+    Con "homepage" indicamos dónde se va a desplegar el sitio. 
+    Con predeploy compilamos la aplicación. 
+    Con deploy lo desplegamos en github.
+
+   - "homepage": "https://{Github Username}.github.io/{NombreRepo}"
+   - "predeploy": "npm run build"
+   - "deploy": "gh-pages -d build"
